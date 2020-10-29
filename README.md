@@ -1,7 +1,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Investment Rdeep - Stock Recommender
 
-<img src="Miscellaneous/InvestmentRmini.png"
+<img src="Miscellaneous/InvestmentRdeep.png"
      style="float: left; margin-right: 0px;" />
 
 ---
@@ -16,7 +16,7 @@
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
-| :------------ |:---------------:| :-----| :-----|
+| :---------------- |:---------------:| :-----| :-----|
 | Chng Yan Hao | A0024023A | from 0% to 100% | E0529228@nus.edu.sg |
 
 
@@ -76,6 +76,6 @@
 
 ---
 
-**This [Pattern Recognition (PR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
+**This [Pattern Recognition (PR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Pattern Recognition") course is part of the Analytics and Intelligent Systems: Graduate Certificate in [Pattern Recognition Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
 
 **Special thanks to all lecturers in ISY5002 imparting knowledge, making this possible.**
