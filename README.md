@@ -24,8 +24,7 @@
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-- View [Short Intro](https://www.youtube.com/)
-- View [Demo](https://www.youtube.com/)
+- View [Project Presentation](https://youtu.be/4J2GSWl8D3I)
 
 ---
 
@@ -72,10 +71,11 @@
 
 - InvestmentRdeep.png
 - ExecutiveSummary.png
+- references.txt
 
 ---
 
-**This [Pattern Recognition (PR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Pattern Recognition") course is part of the Analytics and Intelligent Systems: 
+**This [Pattern Recognition (PR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Pattern Recognition") course is part of the Analytics and Intelligent Systems:** 
 **Graduate Certificate in [Pattern Recognition Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
 
 **Special thanks to all lecturers for imparting knowledge in ISY5002 , making this possible.**

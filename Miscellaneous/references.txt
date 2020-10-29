@@ -1,0 +1,22 @@
+# References
+https://towardsdatascience.com/time-series-forecasting-with-recurrent-neural-networks-74674e289816
+https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras/#:~:text=Running%20the%20example%20returns%20a,LSTM%20cell%20in%20the%20layer.&text=You%20must%20set%20return_sequences%3DTrue,a%20three%2Ddimensional%20sequence%20input.
+https://machinelearningmastery.com/stacked-long-short-term-memory-networks/
+https://machinelearningmastery.com/reshape-input-data-long-short-term-memory-networks-keras/
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+https://www.kaggle.com/ramadiansyah/ts-lstm-vs-arima-vs-ets
+https://towardsdatascience.com/forecasting-time-series-data-stock-price-analysis-324bcc520af5
+https://towardsdatascience.com/holt-winters-exponential-smoothing-d703072c0572
+https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Exponential_Smoothing-Trend_and_Seasonal.pdf
+https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/
+https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
+https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788
+https://www.sciencedirect.com/topics/computer-science/exponential-smoothing
+https://orangematter.solarwinds.com/2019/12/15/holt-winters-forecasting-simplified/#:~:text=Holt%2DWinters%20uses%20exponential%20smoothing,for%20the%20present%20and%20future.&text=The%20model%20requires%20several%20parameters,of%20periods%20in%20a%20season.
+https://www.investopedia.com/terms/r/rsi.asp
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://www.datacamp.com/community/tutorials/lstm-python-stock-market
+http://cs230.stanford.edu/projects_winter_2020/reports/32066186.pdf
