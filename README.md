@@ -43,12 +43,12 @@
 - Python 3.7.6
 - tensorflow 1.13.2 / tensorflow.keras
 - Packages
--	GUI 				: tkinter
-- 	Data and system related 	: os, sys, sqlite3, importlib, datetime
-- 	Numbers 			: pandas, numpy
--	Plots and Images 		: matplotlib, PIL
--	Stats related			: sklearn, scipy, statsmodels
--	Sound				: gtts, getpass, playsound
+**      >>GUI 				: tkinter**
+**      >>Data and system related 	: os, sys, sqlite3, importlib, datetime**
+**      >>Numbers 			: pandas, numpy**
+**      >>Plots and Images 		: matplotlib, PIL**
+**      >>Stats related			: sklearn, scipy, statsmodels**
+**      >>Sound				: gtts, getpass, playsound**
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
