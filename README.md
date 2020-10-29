@@ -1,1 +1,81 @@
--- Under Construction --
+## SECTION 1 : PROJECT TITLE
+## Investment Rdeep - Stock Recommender
+
+<img src="Miscellaneous/InvestmentRmini.png"
+     style="float: left; margin-right: 0px;" />
+
+---
+
+## SECTION 2 : EXECUTIVE SUMMARY
+
+<img src="Miscellaneous/ExecutiveSummary.png"
+     style="float: left; margin-right: 0px;" />
+
+---
+
+## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+
+| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
+| :------------ |:---------------:| :-----| :-----|
+| Chng Yan Hao | A0024023A | from 0% to 100% | E0529228@nus.edu.sg |
+
+
+---
+
+## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+
+- View [Short Intro](https://www.youtube.com/)
+- View [Demo](https://www.youtube.com/)
+
+---
+
+## SECTION 5 : USER GUIDE
+
+`Refer to appendix`[QuickUserGuide](https://github.com/RyanChngYanHao/PRS-PT-2020-06-20-ISY5002-GRP3-Investment_Rdeep/blob/master/ProjectReport/QuickUserGuide.pdf) `in Github Folder: ProjectReport`
+
+### Able to run standalone:
+
+- download .zip from SystemCodes and unzip
+- begin by running ird.bat (Windows OS) or python GUI.py (Mac OS)
+
+### Recommended: 
+- Internet connection (for data download)
+- Windows 10
+- Python 3.7.6
+- tensorflow 1.13.2 / tensorflow.keras
+- Packages
+-	GUI 				: tkinter
+- 	Data and system related 	: os, sys, sqlite3, importlib, datetime
+- 	Numbers 			: pandas, numpy
+-	Plots and Images 		: matplotlib, PIL
+-	Stats related			: sklearn, scipy, statsmodels
+-	Sound				: gtts, getpass, playsound
+
+---
+## SECTION 6 : PROJECT REPORT / PAPER
+
+`Refer to`[ProjectReport](https://github.com/RyanChngYanHao/PRS-PT-2020-06-20-ISY5002-GRP3-Investment_Rdeep/blob/master/ProjectReport/ProjectReport.pdf) `in Github Folder: ProjectReport`
+
+**Recommended Sections for Project Report / Paper:**
+- Executive Summary
+- Business Problem Background
+- Project Objectives
+- Project Solution
+- Project Implementation
+- Project Performance & Validation
+- Project Conclusions: Findings & Recommendation
+
+---
+## SECTION 7 : MISCELLANEOUS
+
+`Refer to Github Folder: Miscellaneous`
+
+- InvestmentRdeep.png
+- ExecutiveSummary.png
+- Compatible .csv samples for csv folder (copy sample csv to csv folder after unzip)
+
+---
+
+**This [Pattern Recognition (PR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
+
+**Special thanks to all lecturers in ISY5002 imparting knowledge, making this possible.**
