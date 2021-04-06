@@ -76,6 +76,6 @@
 ---
 
 **This [Pattern Recognition (PR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Pattern Recognition") course is part of the Analytics and Intelligent Systems:** 
-**Graduate Certificate in [Pattern Recognition Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
+**Graduate Certificate in [Pattern Recognition Systems (PRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
 
-**Special thanks to all lecturers for imparting knowledge in ISY5002 , making this possible.**
+**Special thanks to lecturers for imparting their knowledge, making this possible.**
